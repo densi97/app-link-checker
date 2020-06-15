@@ -7,3 +7,5 @@ This script extracts all domains from the APK's manifest and checks if **all** c
 ### Usage
 `python3 check_app_links.py <name_of_apk>`
 
+
+(python requests module is necessary; install with `pip install requests`)
